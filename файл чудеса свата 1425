@@ -1,0 +1,33 @@
+<html>
+     <title> Чудеса света  </title>
+     <body>
+         <header> чудеса света 
+             <img src="https://cdn-icons-png.flaticon.com/512/1903/1903915.png" width="20" height="20">
+             <a href="#planet">Планета</a>
+         </header>
+         <main>
+              <a href="https://ru.wikipedia.org/wiki/%D0%A7%D1%83%D0%B4%D0%B5%D1%81%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%B0"> википедия</a>
+             <h1> Чудеса света. Наша планета очень красивая.</h1>
+             <h2>Зачем нам нужна нам наша планета?</h2>
+             <h2 id="planet"></h2>
+         </main>
+         <img src="https://stihi.ru/pics/2015/02/06/4808.jpg">
+            <table  style="border:1px solid MediumSeaGreen;">
+                 <tr>
+                    <td style="border:1px solid MediumSeaGreen;">где? </td>
+                    <td style="border:1px solid MediumSeaGreen;">что? </td>
+                </tr>
+                <tr>
+                    <td style="border:1px solid MediumSeaGreen;"> Европа </td>
+                    <td style="border:1px solid MediumSeaGreen;"> колезей </td>
+                </tr>
+                <tr>
+                   <td style="border:1px solid MediumSeaGreen;"> Азия </td> 
+                   <td style="border:1px solid MediumSeaGreen;"> вилика китайская стена </td>
+                </tr>
+            </table>
+        <footer>
+           сделас андрей
+        </footer>
+     </body>
+</html>
